@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi There - Sheikh Rashed is Here 😀
 
-<!--
-**SheikhRashed/SheikhRashed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+- [Zakirsoft -@frontEndDeveloper](https://zakirsoft.com/) and as Well [Fiverr - @codespone](https://www.fiverr.com/codespone?up_rollout=true)
+- 🌱 I’m currently learning <b>React<b>
+- 👯 I’m looking to collaborate on React 
+- 🤔 I’m looking for help with <span>Algorithms & Problem solving Techniques</span>
+- 💬 Ask me about Anything
+- 📫 How to reach me: [Facebook - @SheikhRashed ](https://www.facebook.com/SheikhRashed.445)
+- ⚡ Fun fact: ... I don't think much about what i don't like about 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=SheikhRashed&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000"/>
