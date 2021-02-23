@@ -1,7 +1,7 @@
 ### Hi There - Sheikh Rashed is Here 😀
 
 - 🔭 I’m currently working on 
-- [Zakirsoft -@frontEndDeveloper](https://zakirsoft.com/) and as Well [Fiverr - @codespone](https://www.fiverr.com/codespone?up_rollout=true)
+- [Fiverr - @codespone](https://www.fiverr.com/codespone?up_rollout=true)
 - 🌱 I’m currently learning <b>React<b>
 - 👯 I’m looking to collaborate on React 
 - 🤔 I’m looking for help with <span>Algorithms & Problem solving Techniques</span>
