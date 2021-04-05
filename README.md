@@ -3,7 +3,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 
-<p>Welcome to my github page! </br> I'm Mike, Frontend Software Developer from <b>Novosibirsk, Russia</b></p>
 
 <h3>Tools that I am using</h3>
 
