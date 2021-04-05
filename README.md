@@ -17,7 +17,7 @@
 </p>
 
 <h3>Codewars</h3>
-<img alt="Codewars badge" src="https://www.codewars.com/users/sakhnyuk/badges/small" />
+<img alt="Codewars badge" src="https://www.codewars.com/users/Sheikh%20Rashed/badges/small" />
 
 <h3>My links</h3>
 <p>
