@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **adlisting**
+- 🔭 I’m currently working on ** adlisting **
 
-- 🌱 I’m currently learning **javaScript, Webcomponents**
+- 🌱 I’m currently learning ** javaScript, Webcomponents **
 
 - 💬 Ask me about **JavaScript, React, Html, Css**
 
@@ -17,12 +17,9 @@
 
 
 
-
-
-
 <h3 align="left" >Languages and Tools:</h3>
 
-<table align="left" width="100% !important">
+<table align="auto" >
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -112,15 +109,5 @@
 
 
 
-
-<h3 align="left" >Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sheikh rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sheikh rashed" height="30" width="40" /></a>
-<a href="https://dev.to/sheikh rashed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sheikh rashed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sheikh rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh rashed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sheikh rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sheikh rashed" height="30" width="40" /></a>
-<a href="https://fb.com/sheikh rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh rashed" height="30" width="40" /></a>
-<a href="https://instagram.com/sheikh.rashed445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheikh.rashed445" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sheikh rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sheikh rashed" height="30" width="40" /></a>
-</p>
+[comment]: <> (This is a comment, it will not be included)
 
