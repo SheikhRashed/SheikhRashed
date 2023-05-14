@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheikh Rashed</h1>
-<h3 align="center">Change Your Habbits to Change Your Future</h3>
+<h3 align="center">No Pain, No Gain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhrashed&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhrashed" /> </p>
 
